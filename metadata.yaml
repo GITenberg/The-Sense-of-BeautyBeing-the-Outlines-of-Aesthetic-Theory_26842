@@ -1,0 +1,37 @@
+_repo: The-Sense-of-BeautyBeing-the-Outlines-of-Aesthetic-Theory_26842
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santayana, George
+    aliases:
+    - Santayana, Jorge
+    - Santayana, Georgius
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+description: '"This work contains the chief ideas gathered together for a course of
+  lectures on the theory and history of aesthetics given at Harvard College from 1892
+  to 1895. The only originality the author claims is that which may result from the
+  attempt to put together the scattered commonplaces of criticism into a system, under
+  the inspiration of a naturalistic psychology. His effort throughout has been to
+  recall those fundamental aesthetic feelings the orderly extension of which yields
+  sanity of judgment and distinction of taste"--Pref. (PsycINFO Database Record (c)
+  2005 APA, all rights reserved).'
+gutenberg_issued: '2008-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesthetics'
+- !lcc 'B'
+title: 'The Sense of Beauty: Being the Outlines of Aesthetic Theory'
+url: http://www.gutenberg.org/ebooks/26842
